@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>First Application</title>
+	<script src="js/angular.min.js"></script>
+	<script src="js/ng-route.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/router.js"></script>
+    <script src="controllers/companyctrl.js"></script>
+    <script src="controllers/userctrl.js"></script>
+    <script src="services/getusers.js"></script>
+    <script src="services/get_company.js"></script>
+</head>
+<body  ng-app="firstModule" ng-init=""> 
+  
+    Hi Welcome
+    
+<a href="/">Home Page</a>
+<a href="#/user">User</a>
+
+<br>
+<br>
+
+<div ng-view></div>
+
+
+
+
+</body>
+</html>
+{{firstname + lastname}}

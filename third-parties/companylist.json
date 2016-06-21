@@ -1,0 +1,19 @@
+
+{
+	"companies": [{
+	    "id":1, 
+		"Name": "Lantronx1",
+		"location": "Hyderabad"
+	}, {
+
+		"id":2, 
+		"Name": "Lantronx2",
+		"location": "Hyderabad"
+
+	}, {
+		"id":3, 
+		"Name": "Lantronx3",
+		"location": "Hyderabad"
+
+	}]
+}

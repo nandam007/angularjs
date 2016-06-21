@@ -1,0 +1,8 @@
+<ul>
+   <div ng-repeat="user in userdata">
+
+      <li>Name: {{user.firstName}} {{user.lastName}}, City:{{user.location}}, Designation:{{user.designation}},
+         <a href="#/company/{{$index+1}} ">show company</a>
+       </li>
+   </div>
+</ul>

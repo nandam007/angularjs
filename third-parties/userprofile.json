@@ -1,0 +1,24 @@
+
+{
+	"employees": [{
+		"firstName": "Sudhir",
+		"lastName": "Kumar",
+		"location": "Hyderabad",
+		"designation": "developer",
+		"compnay": 1
+	}, {
+		"firstName": "Shiva",
+		"lastName": "Kumar",
+		"location": "Hyderabad",
+		"designation": "Android",
+		"compnay": 2
+
+	}, {
+		"firstName": "Madhav",
+		"lastName": "Kumar",
+		"location": "Hyderabad",
+		"designation": "Ios developer",
+		"compnay": 3
+
+	}]
+}
